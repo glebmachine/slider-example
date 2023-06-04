@@ -1,0 +1,2 @@
+.slider{height:4px;background:red;margin:20px}.notches{justify-content:space-between;display:flex}.notch{width:2px;height:12px;background:red;margin-top:-8px}.pin{width:10px;height:10px;background:red;border-radius:50%;margin-top:-3px;margin-left:-4px;transition:background-color .3s;position:absolute;transform:scale(1)}.pin:hover{background:#de0000}.pin:active{background:#de0000;transform:scale(1.2)}
+/*# sourceMappingURL=index.d726258a.css.map */
