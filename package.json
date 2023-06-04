@@ -7,6 +7,6 @@
     "rxjs": "^7.8.1"
   },
   "scripts": {
-    "build": "parcel build src/index.html"
+    "build": "parcel build src/index.html --public-url ."
   }
 }
